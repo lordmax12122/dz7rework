@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://gfx3.senetic.com/akeneo-catalog/e/9/9/4/e994e93b1dafe3dca532be15a8c238b4185e0c3e_1626672_5JI_00009_image1.jpg",
+    "name": "Laptop",
+    "price": 1500,
+    "description": "A high-performance laptop for all your needs."
+      },
+      {
+        "id": 2,
+        "image": "https://get-it-easy.de/wp-content/uploads/2023/12/iPhone-2g-leihen-get-it-easy.jpg",
+        "name": "Smartphone",
+        "price": 700,
+        "description": "A modern smartphone with an excellent camera."
+      },
+      {
+        "id": 3,
+        "image": "https://grokholsky.com/uploads/images/hero__gnfk5g59t0qe_large_2x.png",
+        "name": "Headphones",
+        "price": 200,
+        "description": "Noise-cancelling headphones for better focus."
+      }
+    ]
+  }
